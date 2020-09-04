@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "data": {
+    "phoneNumber": "string",
+    "email": "string",
+    "password": "string",
+    "annualSalary": "string",
+    "numberOfHouseholds": "string",
+    "sex": "string",
+    "birthDay": "string",
+    "stations": [
+      {
+        "ekispertCode": "string",
+        "stationName": "string",
+        "latitude": 0,
+        "longitude": 0
+      }
+    ]
+  }
+}
